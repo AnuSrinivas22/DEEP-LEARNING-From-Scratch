@@ -34,6 +34,17 @@ This repository contains implementations of fundamental Deep Learning and Neural
 - Matplotlib
 - Scikit-learn
 
+| File                                  | Description                                |
+| ------------------------------------- | ------------------------------------------ |
+| binary_classification                 | Binary classification using neural network |
+| MLP                                   | Multi-layer perceptron implementation      |
+| activation_funMLP                     | Activation functions implementation        |
+| loss_function_and_optimization_basics | Loss functions and gradient descent        |
+| backpropagation_from_scratch          | Backpropagation algorithm implementation   |
+| hyperparameter_tuning_in_NN           | Learning rate, epochs tuning               |
+| regularization_in_NN                  | L1, L2 regularization                      |
+
+
 ## Purpose
 This repository is created for educational purposes to understand deep learning algorithms step by step from scratch instead of using high-level frameworks.
 
